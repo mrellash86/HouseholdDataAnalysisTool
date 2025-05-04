@@ -3,8 +3,7 @@
 #  Function:     createLists
 # 
 #  Description:  This function reads the file and creates the lists
-#                Please do NOT modify this function.  If you do,
-#                you will not receive credit for Program 8.
+#                Please do NOT modify this function.  
 #
 #  Parameters:   The file objects
 #

@@ -11,9 +11,7 @@
 #                'Program8-Output.txt'. Follows specific function
 #                structure and constraints.
 #
-#                Do not modify the main method or the header of any
-#                method. You will not receive credit for Program 8
-#                if you do. 
+#               
 #
 #********************************************************************
 
@@ -29,9 +27,7 @@ import CreateLists
 #                analysis functions, and ensures output is written.
 #                (Requirement: No input, processing, or output here,
 #                 delegate work).
-#                Do NOT modify this method. If you modify it, you
-#                will not receive credit for this program.
-#
+#                #
 #  Parameters:   None
 #
 #  Returns:      Nothing 
